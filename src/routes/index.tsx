@@ -242,7 +242,7 @@ function Index() {
             ))}
           </div>
           <span className="text-sm sm:text-base text-muted-foreground">
-            + de <b className="text-foreground">3.000 alunos</b> memorizando
+            + de <b className="text-foreground">3.000 alunos</b> memorizando a Bíblia
           </span>
         </div>
         <div className="mx-auto mt-5 flex max-w-xl flex-wrap justify-center gap-x-5 gap-y-2">
